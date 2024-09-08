@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "outDir": "./resources/scripts/js",
+      "rootDir": "./resources/scripts/ts",
+      "lib": ["es2017", "dom"]   
+    },
+    "include": ["./resources/scripts/ts"]
+  }
+  
